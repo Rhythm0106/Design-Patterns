@@ -13,12 +13,12 @@ This repository contains implementations of 15 design patterns in Java, focusing
 7. Facade Pattern
 8. Iterator Pattern
 9. Memento Pattern
-10. Singleton Pattern
-11. Flyweight Pattern
-12. Observer Pattern
-13. State Pattern
-14. Prototype Pattern
-15. MVC Pattern
+ 10. Singleton Pattern
+ 11. Flyweight Pattern
+ 12. Observer Pattern
+ 13. State Pattern
+ 14. Prototype Pattern
+ 15. MVC Pattern
 
 ## Contents of Each Pattern
 
