@@ -3,4 +3,4 @@ I have implemented 15 design patterns in Java, all centered around the explorati
 For all the 15 design patterns these things are there:
 1) Code
 2) UML Diagram
-3) Word files which consists theory and implementaion.
+3) Pdf file which consists of theory and implementaion for each pattern.
